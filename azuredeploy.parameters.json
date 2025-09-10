@@ -14,8 +14,10 @@
         "adminUsername": {
             "value": "TestUser"
         },
+        
         "adminPassword": {
             "value": "securestring!"
         }
+        
     }
 }
