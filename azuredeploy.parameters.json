@@ -15,6 +15,6 @@
             "value": "TestUser"
         },
         "adminpassword": {
-            "value": YourStrongPassword123!"
+            "value": "YourStrongPassword123!"
     }
 }
