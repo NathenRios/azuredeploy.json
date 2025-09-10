@@ -35,7 +35,7 @@
         }
       },
       "adminPassword": {
-        "type": "Password123?",
+        "type": "securestring",
         "metadata": {
           "description": "Admin password"
         }
