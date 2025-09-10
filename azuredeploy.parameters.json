@@ -13,6 +13,8 @@
         },
         "adminUsername": {
             "value": "TestUser"
-        }
+        },
+        "adminpassword": {
+            "value": YourStrongPassword123!"
     }
 }
