@@ -14,7 +14,8 @@
         "adminUsername": {
             "value": "TestUser"
         },
-        "adminpassword": {
-            "value": "YourStrongPassword123!"
+        "adminPassword": {
+            "value": "securestring!"
+        }
     }
 }
